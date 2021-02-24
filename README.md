@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daudulislamsumon
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Vuejs and Laravel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Laravel Project
 - 📫 How to reach me ?...
 - 📧 md.daudulislamsumon@gmail.com
 - 🙊 https://www.facebook.com/md.daudsumon/
