@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Laravel Project
 - 📫 How to reach me ?...
 - 📧 md.daudulislamsumon@gmail.com
-- 🙊 https://www.facebook.com/md.daudsumon/
+- 🙊 https://www.facebook.com/md.daudulislamsumon
 
 <!---
 daudulislamsumon/daudulislamsumon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
